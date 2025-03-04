@@ -30,4 +30,9 @@ To use the script, follow these steps:
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/yourusername/winget-app-install-script.git
-   cd app-installation-script
+   cd winget-app-install-script
+   ```
+2. Run the Script: Ensure you are running PowerShell with administrative privileges.
+   ```sh
+   .\winget-install-apps.ps1
+   ```
